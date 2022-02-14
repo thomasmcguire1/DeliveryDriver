@@ -1,1 +1,1 @@
-A driving game, Thomas McGuire
+A driving game, Thomas McGuire.
